@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @durazy
-- 🎮  I’m interested in gaming related things and automation.
-- 🌱 I’m currently learning Java
-- 🤝  I’m looking to collaborate on anything AI related
+- 🎮  I’m interested in automation, artificial intelligence, and cyber security
+- 🤝  I’m looking to collaborate on anything AI or cyber security related
 - 📫 How to reach me email me @ dduru1@miners.utep.edu
 
 <!---
