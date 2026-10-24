@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @durazy
-- 🎮  I’m interested in automation, artificial intelligence, and cyber security
+- 🎮  I’m interested in automation, artificial intelligence, software development, and where those all intersect!
 - 🤝  I’m looking to collaborate on anything AI or cyber security related
-- 📫 How to reach me email me @ dduru1@miners.utep.edu
+- 📫 How to reach me: email me @ dduru1@miners.utep.edu
 
 <!---
 durazy/durazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
